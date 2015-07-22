@@ -1,0 +1,6 @@
+{
+  "name": "Sinatra API Starter",
+  "description": "A barebones Sinatra app to build an API",
+  "repository": "https://github.com/jasontwong/sinatra-api",
+  "keywords": ["sinatra", "api", "unicorn"]
+}
